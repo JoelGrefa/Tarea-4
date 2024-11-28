@@ -1,0 +1,5 @@
+Titulo: Avatar, Duración: 125 min, Género: Acción
+Titulo: Game of Thrones, Duración: 60 min, Género: Fantasía
+Titulo: Cosmos, Duración: 45 min, Género: Ciencia
+Titulo: Ecos del Silencio, Duración: 4 min, Género: Pop
+Titulo: Código Abierto: Conversaciones sobre Tecnología, Duración: 70 min, Género: Entrevista
